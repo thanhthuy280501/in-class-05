@@ -1,7 +1,7 @@
 //****************************************************************************
 // Program:	sc ("small class")
 // Author:	S. Turner
-//
+// Date:    10/05/2024
 // This program uses the "small class" so that you can gain practice using
 // pointers, new, delete, and the arrow operator.
 //****************************************************************************
