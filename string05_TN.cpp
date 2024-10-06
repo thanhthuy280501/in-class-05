@@ -8,7 +8,8 @@ using namespace std;
 //****************************************************************************
 // Program:	string05.cpp
 // Author:	S. Turner
-// Date:	09/21/22
+// Date:	  10/05/2024
+// Name:    Thuy Nguyen
 //
 // In its non-improved form, this program reads some command-line parameters,
 // forcing the user to type four arguments past the program executable
