@@ -1,7 +1,7 @@
 //****************************************************************************
 // Program:	fa.cpp ("fill array")
 // Author:	S. Turner
-//
+// Date:    10/05/2024
 // Small demo program to help you understand how to program pass-by-pointer,
 // as well as some uses of arrays as pointers.
 //****************************************************************************
